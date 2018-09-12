@@ -1,7 +1,7 @@
 {
   "name": "node-restfool",
   "version": "1.0.0",
-  "description": "",
+  "description": "rest adapter meant for FaaS environments",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -15,9 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/schwimmfuzzi/node-restfool.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["rest", "restfool"],
+  "author": "Martin Kastner",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/schwimmfuzzi/node-restfool/issues"
   },
